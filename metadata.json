@@ -1,0 +1,6 @@
+{
+  "name": "Teguío",
+  "description": "Plataforma de orientación digital amigable y respetuosa para adultos mayores y sus familias. Te orientamos, tú continúas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
